@@ -6,9 +6,9 @@ A browser sandbox game about a Mars outpost. Explore Mars with your rover, build
 
 ## Play / Как играть
 
-Open `index.html` in any modern browser. No install and no build step.
+Open `index.html` in any modern browser. No install and no build step.or paste this link https://tech1231000357.github.io/mars-sandbox/ in any browser.
 
-Откройте `index.html` в браузере. Ничего устанавливать не нужно.
+Откройте `index.html` в браузере. Ничего устанавливать не нужно.или вставьте эту ссылку https://tech1231000357.github.io/mars-sandbox/ в браузере.
 
 ## Tech / Технологии
 
